@@ -6,12 +6,3 @@ emulation/datasets/Wednesday*
 .vscode/
 emulation/datasets/report.csv
 **/__pycache__/
-
-emulation/datasets/**/*.csv
-emulation/datasets/**/*_data.npy
-emulation/datasets/**/*_filenames.json
-
-
-*.npy
-*.json
-*.csv
